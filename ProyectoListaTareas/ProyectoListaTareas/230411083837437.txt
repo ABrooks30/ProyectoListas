@@ -1,0 +1,6 @@
+Tarea 1;Baja;Completada;asdasdasda
+efjejfw;Media;Cancelada;igyyuftyuftyu
+Tarea 2;Alta;Completada;222222
+Tarea 3;Alta;Completada;aa
+Tarea 4;Baja;En progreso;sffe
+Tarea 5;Media;Pendiente;grrg

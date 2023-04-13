@@ -1,0 +1,4 @@
+Peru;Media;Pendiente;asdasdasd
+Egipto;Alta;Pendiente;asdasdasd
+Espana;Alta;En progreso;asdasdasd
+Venezuela;Baja;Cancelada;asdasdasdasd

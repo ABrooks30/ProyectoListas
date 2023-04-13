@@ -1,0 +1,5 @@
+Tarea 1;Baja;Pendiente;aklnsdlasndkas
+adfadsadasd;Alta;Pendiente;asdasdasdasd
+etweter34534rf;Alta;Completada;wefwfdasdasdasdasd
+Tarea final 22;Alta;Pendiente;Alguna nota de tarea
+asdasdasd;Media;En progreso;asasdasdasd
